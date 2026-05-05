@@ -40,21 +40,23 @@ IT support & digital services background out of the UK. T-Level in Digital Suppo
 **Process**
 
 ![ITIL](https://img.shields.io/badge/ITIL-13AA52?style=flat-square&logo=itil&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=agile&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-026AA7?style=flat-square&logo=trello&logoColor=white)
 
 ---
 
 ## 🚧 Currently Building
 
-- **Unraid media stack** — Jellyfin, Sonarr, Radarr, Prowlarr, Jellyseerr, qBittorrent over VPN 
-- **GPU passthrough** — RTX 3060 for media encoding
-- **Hardware tinkering** — networking gear, laptop & desktop repairs, custom pc builds, homelab expansion
+- **Unraid media stack** - Jellyfin, Sonarr, Radarr, Prowlarr, Jellyseerr, qBittorrent over VPN 
+- **GPU passthrough** - RTX 3060 for media encoding
+- **Hardware tinkering** - networking gear, laptop & desktop repairs, custom pc builds, homelab expansion
 
 ---
 
 ## 🏆 Awards & Experience
 
-- 🎓 **Student of the Year: 2023/2024 & 2024/2025** — Leeds City College
-- 💡 **Star Awards: Digital Visionary Award: 2024/2025** — Leeds City College
+- 🎓 **Student of the Year: 2023/2024 & 2024/2025** - Leeds City College
+- 💡 **Star Awards: Digital Visionary Award: 2024/2025** - Leeds City College
 - 💼 IT Service Manager placement at **DWP Digital** Oct 2024 - Feb 2025
 - 💼 Student Programme Delivery Intern placement at **Hundo** April 2024 - May 2024
 
