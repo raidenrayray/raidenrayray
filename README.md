@@ -56,20 +56,17 @@ IT support & digital services background out of the UK. T-Level in Digital Suppo
 - 🎓 **Student of the Year: 2023/2024 & 2024/2025** — Leeds City College
 - 💡 **Star Awards: Digital Visionary Award: 2024/2025** — Leeds City College
 - 💼 IT Service Manager placement at **DWP Digital** Oct 2024 - Feb 2025
-- 💼 
+- 💼 Student Programme Delivery Intern placement at **Hundo** April 2024 - May 2024
 
 ---
 
-## 📊 Stats
+## 📊 stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raidenrayray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=ff2e63&icon_color=08d9d6&text_color=a8b3cf&cache_seconds=86400" alt="raiden's github stats"/>
-<img src="https://streak-stats.demolab.com/?user=raidenrayray&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=ff2e63&ring=08d9d6&fire=ff2e63&currStreakLabel=08d9d6" alt="github streak"/>
+<img src="https://github-readme-stats-teal-gamma-82.vercel.app/api?username=raidenrayray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=ff2e63&icon_color=08d9d6&text_color=a8b3cf" alt="raiden's github stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidenrayray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=ff2e63&text_color=a8b3cf&cache_seconds=86400" alt="top languages"/>
-
-</div>
+<img src="https://github-readme-stats-teal-gamma-82.vercel.app/api/top-langs/?username=raidenrayray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=ff2e63&text_color=a8b3cf" alt="top languages"/>
 
 </div>
 ---
