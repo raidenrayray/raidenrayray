@@ -7,13 +7,13 @@
 
 </div>
 
-## 👋 hey
+## 👋 Welcome
 
 IT support & digital services background out of the UK. T-Level in Digital Support Services from Leeds City College, work placement as an Associate IT Service Manager at **DWP Digital**. Aspiring network security analyst / network engineer.
 
 ---
 
-## 🛠️ stack
+## 🛠️ Tech Stack
 
 **Virtualisation & Homelab**
 
@@ -43,7 +43,7 @@ IT support & digital services background out of the UK. T-Level in Digital Suppo
 
 ---
 
-## 🚧 currently building
+## 🚧 Currently Building
 
 - **Unraid media stack** — Jellyfin, Sonarr, Radarr, Prowlarr, Jellyseerr, qBittorrent over VPN 
 - **GPU passthrough** — RTX 3060 for media encoding
@@ -51,25 +51,27 @@ IT support & digital services background out of the UK. T-Level in Digital Suppo
 
 ---
 
-## 🏆 wins
+## 🏆 Awards & Experience
 
-- 🎓 **Student of the Year** — Leeds City College
-- 💡 **Digital Visionary Award** — Leeds City College
-- 💼 IT Service Manager placement at **DWP Digital**
+- 🎓 **Student of the Year: 2023/2024 & 2024/2025** — Leeds City College
+- 💡 **Star Awards: Digital Visionary Award: 2024/2025** — Leeds City College
+- 💼 IT Service Manager placement at **DWP Digital** Oct 2024 - Feb 2025
+- 💼 
 
 ---
 
-## 📊 stats
+## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raidenrayray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=ff2e63&icon_color=08d9d6&text_color=a8b3cf&cache_seconds=86400" alt="stats"/>
-<img src="https://streak-stats.demolab.com/?user=raidenrayray&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=ff2e63&ring=08d9d6&fire=ff2e63&currStreakLabel=08d9d6" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raidenrayray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=ff2e63&icon_color=08d9d6&text_color=a8b3cf&cache_seconds=86400" alt="raiden's github stats"/>
+<img src="https://streak-stats.demolab.com/?user=raidenrayray&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=ff2e63&ring=08d9d6&fire=ff2e63&currStreakLabel=08d9d6" alt="github streak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidenrayray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=ff2e63&text_color=a8b3cf&cache_seconds=86400" alt="top languages"/>
 
 </div>
 
+</div>
 ---
 
 <div align="center">
