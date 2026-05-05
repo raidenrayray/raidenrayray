@@ -69,6 +69,7 @@ IT support & digital services background out of the UK. T-Level in Digital Suppo
 <img src="https://github-readme-stats-teal-gamma-82.vercel.app/api/top-langs/?username=raidenrayray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=ff2e63&text_color=a8b3cf" alt="top languages"/>
 
 </div>
+
 ---
 
 <div align="center">
