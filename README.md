@@ -34,6 +34,7 @@ IT support & digital services background out of the UK. T-Level in Digital Suppo
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 *Planned/on roadmap*
+
 ![Cloudflare Zero Trust](https://img.shields.io/badge/Cloudflare%20Zero%20Trust-F38020?style=flat-square&logo=cloudflarezerotrust&logoColor=white)
 ![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
