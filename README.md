@@ -28,6 +28,14 @@ IT support & digital services background out of the UK. T-Level in Digital Suppo
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare DNS](https://img.shields.io/badge/Cloudflare%20DNS-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare WAF](https://img.shields.io/badge/Cloudflare%20WAF-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+*Planned/on roadmap*
+![Cloudflare Zero Trust](https://img.shields.io/badge/Cloudflare%20Zero%20Trust-F38020?style=flat-square&logo=cloudflarezerotrust&logoColor=white)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 **OS & Tooling**
 
